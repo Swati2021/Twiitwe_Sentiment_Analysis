@@ -17,3 +17,5 @@ Twitter is the rich source to learn about people's opinion. By twitter sentiment
 • Logistic Algorithm
 • Support vector machine
 • Multinomial naive bayes
+# Dataset:
+To download the datset refer the link provided in Dataset link txt file.
